@@ -1,0 +1,6 @@
+{
+  "name": "Iglesia del Dios Altísimo",
+  "description": "Portal oficial de la Iglesia del Dios Altísimo. Transmisiones en vivo, calendario de cultos, proyectos sociales, donaciones multimoneda con billetera digital, registro de voluntarios, testimonios y panel de administración.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
